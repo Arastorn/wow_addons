@@ -1,0 +1,12 @@
+tag e6bc76afdc3ae4d74c418918b35dec6e2d71a26c v1.9.18
+Author:	Talyrius <contact@talyrius.net>
+Date:	Mon Nov 25 16:06:20 2019 -0800
+
+Tagging as v1.9.18.
+
+commit 1a01b34f9c5fd4a21b3291e85c1e2b8308a5bc43
+Author: Talyrius <contact@talyrius.net>
+Date:   Mon Nov 25 15:43:39 2019 -0800
+
+    Updated for Patch 8.2.5.
+

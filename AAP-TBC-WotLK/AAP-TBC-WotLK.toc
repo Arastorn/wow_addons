@@ -1,0 +1,10 @@
+## Interface: 80200
+## X-Min-Interface: 80200
+
+## Title: Azeroth Auto Pilot <2> 60-80
+## Notes: TBC and WotLK for AAP
+## Author: Zyrrael
+## LoadOnDemand: 1
+## RequiredDeps: AAP-Core
+A60-80.lua
+H60-80.lua

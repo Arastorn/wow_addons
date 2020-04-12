@@ -1,0 +1,60 @@
+lightweight tag 93236a60ff930426f1bc3cee7935db59c0391a3f Plater-v8.3.0.290-Retail
+Author:	Tercio Jose <terciob19@hotmail.com>
+Date:	Thu Mar 12 19:26:08 2020 -0300
+
+commit 93236a60ff930426f1bc3cee7935db59c0391a3f
+Author: Tercio Jose <terciob19@hotmail.com>
+Date:   Thu Mar 12 19:26:08 2020 -0300
+
+    DF Update
+
+commit 6262ac2534cd2009f433482bfef9aa7b2a9369d0
+Author: Tercio Jose <terciob19@hotmail.com>
+Date:   Thu Mar 12 19:22:01 2020 -0300
+
+    Change log for wago urls
+
+commit 0b0f992c669a7edabbcbd7cef46aa9f6f08db991
+Author: Tercio Jose <terciob19@hotmail.com>
+Date:   Thu Mar 12 18:39:47 2020 -0300
+
+    ignore
+
+commit 17de915d215d820ab0b8830a55955938aba66be8
+Author: Tercio Jose <terciob19@hotmail.com>
+Date:   Thu Mar 12 18:38:21 2020 -0300
+
+    wago urls
+
+commit 17de915d215d820ab0b8830a55955938aba66be8
+Author: Tercio Jose <terciob19@hotmail.com>
+Date:   Thu Mar 12 18:38:21 2020 -0300
+
+    wago urls
+
+commit b5e0dd7fa12b992d4443d6e59e5d412c911e87d2
+Author: Continuity <continuity@gmx.net>
+Date:   Wed Mar 11 21:57:00 2020 +0100
+
+    - reverting scaling changes.
+    
+    Going to leave this as is... Pixel Perfect by Blizzard is a freaking mess...
+
+commit 2fecb696bf1a3e59a539a2ecc1d15253cc4af585
+Author: Continuity <continuity@gmx.net>
+Date:   Wed Mar 11 14:44:36 2020 +0100
+
+    - fixing buff settings buff preview
+
+commit cbcc0b146c6318bc004c2fae1d05a878ed40f1c0
+Author: Continuity <continuity@gmx.net>
+Date:   Wed Mar 11 14:44:26 2020 +0100
+
+    - bugfix: apparently dbm removes icons which might not exist
+
+commit feb5b0f0cb1b16e0c37e7072c1037eeb18ec8ff7
+Author: Continuity <continuity@gmx.net>
+Date:   Wed Mar 11 14:43:46 2020 +0100
+
+    - correcting change-log
+

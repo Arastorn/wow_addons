@@ -1,0 +1,12 @@
+tag d3e627ca65254160da60a3a403ee45adeb9a5474 8.3-6-release
+Author:	Hizuro <hizuro@gmx.net>
+Date:	Mon Jan 6 01:52:46 2020 +0100
+
+Tagging as 8.3-6-release
+
+commit dc38a92a1f08597630921b8a57cb741e8b2bc4a1
+Author: Hizuro <hizuro@gmx.net>
+Date:   Mon Jan 6 01:50:37 2020 +0100
+
+    Fix buff frame anchoring with Lorti-UI / Lorti-UI-Classic
+

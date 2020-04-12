@@ -1,0 +1,10 @@
+tag 6ddad5937c1d7dfbd31f1570f59a9ba63b2a6390 8.3.0
+Author:	AllInOneMighty <emmanuel.cron@gmail.com>
+Date:	Tue Jan 28 23:26:16 2020 -0800
+
+commit 6dd7c1afd74cdaf0f7c2260690449ac9678f41c4
+Author: AllInOneMighty <emmanuel.cron@gmail.com>
+Date:   Tue Jan 28 23:26:06 2020 -0800
+
+    Updated TOC
+

@@ -1,0 +1,8 @@
+06.26.19    v 1.0 Functional first pass
+06.27.19    v 1.01 Added additional items 
+07.01.19    v 1.02 Added additional items 
+07.07.19    v 1.03 Added additional items 
+07.10.19    v 1.04 Split data into second file, added items, and added filters for Benthic and Rep items
+08.06.19    v 1.05 Added filters for Heart of Azeroth Essences, and prioritizing item groups by current zone
+02.06.20    v 1.06 Added filters for Patch 8.3 items
+02.15.20    v 1.07 Added more items and subfilters for 8.3, merged Benthic & Black Empire gear, prioritized current zone for 8.3 items.

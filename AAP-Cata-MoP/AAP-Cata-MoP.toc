@@ -1,0 +1,10 @@
+## Interface: 80200
+## X-Min-Interface: 80200
+
+## Title: Azeroth Auto Pilot <3> 80-90
+## Notes: Cata and MoP for AAP
+## Author: Zyrrael
+## LoadOnDemand: 1
+## RequiredDeps: AAP-Core
+A80-90.lua
+H80-90.lua

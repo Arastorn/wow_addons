@@ -1,0 +1,11 @@
+------------------------------------------------------------------------
+r517 | Zensunim | 2020-04-01 03:05:57 +0000 (Wed, 01 Apr 2020) | 2 lines
+Changed paths:
+   M /trunk/GTFO.lua
+   M /trunk/GTFO.toc
+   M /trunk/ReadMe.txt
+
+4.55.2
+* Trying to fix Twitch/Curse from perpetually marking this out-of-date
+------------------------------------------------------------------------
+

@@ -1,0 +1,10 @@
+## Interface: 80200
+## X-Min-Interface: 80200
+
+## Title: Azeroth Auto Pilot <1> 20-60
+## Notes: Vanilla for AAP
+## Author: Zyrrael
+## LoadOnDemand: 1
+## RequiredDeps: AAP-Core
+A20-60.lua
+H20-60.lua

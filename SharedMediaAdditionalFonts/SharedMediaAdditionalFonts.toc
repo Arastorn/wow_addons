@@ -1,0 +1,15 @@
+## Interface: 80300
+
+## Title: SharedMedia Additional Fonts
+## Notes: Inserts additionnal fonts into SharedMediaLib's storage.
+## Version: 8.3.0
+## Author: Lots of people, maintained by pb_ee1.
+## X-Category: Miscellaneous
+## X-Credits: elsia
+
+## OptionalDeps: LibSharedMedia-3.0, LibSharedMedia-2.0, SharedMediaLib
+
+Libs\LibStub\LibStub.lua
+
+Core.lua
+SharedMediaAdditionalFonts.lua

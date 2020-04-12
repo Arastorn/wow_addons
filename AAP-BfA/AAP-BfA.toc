@@ -1,0 +1,10 @@
+## Interface: 80200
+## X-Min-Interface: 80200
+
+## Title: Azeroth Auto Pilot <6> 110-120
+## Notes: BfA for AAP
+## Author: Zyrrael
+## LoadOnDemand: 1
+## RequiredDeps: AAP-Core
+A110-120.lua
+H110-120.lua

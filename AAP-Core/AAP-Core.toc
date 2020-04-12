@@ -1,0 +1,27 @@
+## Interface: 80200
+## X-Min-Interface: 80200
+
+## Title: Azeroth Auto Pilot
+## Notes: Leveling Addon
+## Author: Zyrrael
+## Version: 8.1058
+## SavedVariables: AAP1, AAP2, AAP3, AAPQuestNames, AAP_HoldZoneVar
+lib\LibStub\LibStub.lua
+lib\CallbackHandler-1.0\CallbackHandler-1.0.xml
+lib\HereBeDragons\HereBeDragons-2.0.lua
+lib\HereBeDragons\HereBeDragons-Pins-2.0.lua
+Localization.lua
+Bindings.xml
+Core.lua
+OptionsPanel.lua
+Banners.lua
+BrutallStatic.lua
+QuestList.lua
+QuestHandler.lua
+zones\Alliance.lua
+zones\Horde.lua
+zones\Both.lua
+Minimap.lua
+QuestTest.lua
+
+WorldQuests.lua

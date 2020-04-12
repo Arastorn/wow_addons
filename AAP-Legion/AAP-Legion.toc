@@ -1,0 +1,10 @@
+## Interface: 80200
+## X-Min-Interface: 80200
+
+## Title: Azeroth Auto Pilot <5> 100-110
+## Notes: Legion for AAP
+## Author: Zyrrael
+## LoadOnDemand: 1
+## RequiredDeps: AAP-Core
+A100-110.lua
+H100-110.lua
